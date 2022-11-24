@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 + I'm Liam, and I'm from Italy! My main programming languages are Go, C#, C/C++. I know some other languages (as you can see in my skills section) but these are my favourites.
 + I love reading, programming and working out.
 + If you ever want to contact me, feel free to do so;
-+ e-mail (not one of my real emails, I use this just for commercial work): gyroo@tuta.io
 
 ---
 
