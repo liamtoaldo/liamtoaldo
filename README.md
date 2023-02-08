@@ -33,12 +33,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/dart%20-%23323330.svg?&style=for-the-badge&logo=dart&logoColor=cyan"/>
   <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=green"/>
-  <img src="https://img.shields.io/badge/SQL%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/SQL%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=openjdk&logoColor=orange"/>
 </div>
 <h1 align="center">Tools</h1>
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=IDE&message=GoLand&color=blue&logo=intellij-idea&style=for-the-badge&logoColor=coral">
   <img src="https://img.shields.io/static/v1?label=IDE&message=CLion&color=yellow&logo=intellij-idea&style=for-the-badge&logoColor=coral">
+  <img src="https://img.shields.io/static/v1?label=IDE&message=Android Studio&color=blue&logo=android&style=for-the-badge&logoColor=green">
   <img src="https://img.shields.io/static/v1?label=Distro&message=Artix&color=blue&logo=artix-linux&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/static/v1?label=Shell&message=BASH&color=black&logo=powershell&style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/static/v1?label=Editor&message=VIM&color=cyan&logo=vim&style=for-the-badge&logoColor=green">
