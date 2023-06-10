@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 + I'm Liam, and I'm from Italy! My main programming languages are Go, C#, C/C++. I know some other languages (as you can see in my skills section) but these are my favourites.
 + I love reading, programming and working out.
 + If you ever want to contact me, feel free to do so;
-
 ---
 
 <h1 align="center">Skills</h1>
@@ -35,6 +34,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=green"/>
   <img src="https://img.shields.io/badge/SQL%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=blue"/>
   <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=openjdk&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=blue"/>
+
 </div>
 <h1 align="center">Tools</h1>
 <div align="center">
@@ -52,12 +53,20 @@ Here are some ideas to get you started:
 
 ---
 
-<h1 align="center">My STATS<h1>
-
-<a href="https://github.com/liamtoaldo/liamtoaldo">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamtoaldo&hide_border=true&theme=radical"/></a>
-<a href="https://github.com/liamtoaldo/liamtoaldo">
-  <img align="center" src="https://github-readme-stats.liamtoaldo.vercel.app/api?username=liamtoaldo&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=radical"/>
-</a>
+<h1 align="center">My STATS</h1>
+<table style="border: 0;">
+  <tr>
+    <td style="border: 0;">
+      <a href="https://github.com/liamtoaldo/liamtoaldo">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamtoaldo&hide_border=true&theme=radical"/>
+      </a>
+    </td>
+    <td style="border: 0;">
+      <a href="https://github.com/liamtoaldo/liamtoaldo">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=liam&langs_count=5&theme=radical" alt="Wakatime stats">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
