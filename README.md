@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Gyro7/Gyro7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**liamtoaldo/liamtoaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">My STATS<h1>
 
-<a href="https://github.com/gyro7/gyro7">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyro7&hide_border=true&theme=radical"/></a>
-<a href="https://github.com/gyro7/gyro7">
-  <img align="center" src="https://github-readme-stats.gyro7.vercel.app/api?username=gyro7&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=radical"/>
+<a href="https://github.com/liamtoaldo/liamtoaldo">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamtoaldo&hide_border=true&theme=radical"/></a>
+<a href="https://github.com/liamtoaldo/liamtoaldo">
+  <img align="center" src="https://github-readme-stats.liamtoaldo.vercel.app/api?username=liamtoaldo&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=radical"/>
 </a>
 
 ---
