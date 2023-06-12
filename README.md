@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-+ I'm Liam, and I'm from Italy! My main programming languages are Go, C#, C/C++. I know some other languages (as you can see in my skills section) but these are my favourites.
++ I'm Liam, and I'm from Italy!
 + I love reading, programming and working out.
 + If you ever want to contact me, feel free to do so;
 ---
