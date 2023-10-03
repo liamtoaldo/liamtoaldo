@@ -35,6 +35,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SQL%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=blue"/>
   <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=openjdk&logoColor=orange"/>
   <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/laravel%20-%23323330.svg?&style=for-the-badge&logo=laravel&logoColor=red"/>
+
 
 </div>
 <h1 align="center">Tools</h1>
