@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=openjdk&logoColor=orange"/>
   <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=blue"/>
   <img src="https://img.shields.io/badge/laravel%20-%23323330.svg?&style=for-the-badge&logo=laravel&logoColor=red"/>
+  <img src="https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
 
 
 </div>
