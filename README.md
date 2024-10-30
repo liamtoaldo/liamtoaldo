@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=blue"/>
   <img src="https://img.shields.io/badge/laravel%20-%23323330.svg?&style=for-the-badge&logo=laravel&logoColor=red"/>
   <img src="https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
+  <img src="https://img.shields.io/badge/docker%20-%23323330.svg?&style=for-the-badge&logo=docker&logoColor=cyan"/>
 
 
 </div>
@@ -62,11 +63,6 @@ Here are some ideas to get you started:
     <td style="border: 0;">
       <a href="https://github.com/liamtoaldo/liamtoaldo">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamtoaldo&hide_border=true&theme=radical"/>
-      </a>
-    </td>
-    <td style="border: 0;">
-      <a href="https://github.com/liamtoaldo/liamtoaldo">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=liam&langs_count=5&theme=radical" alt="Wakatime stats">
       </a>
     </td>
   </tr>
