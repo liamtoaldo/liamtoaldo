@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ---
 
 <h1 align="center">My STATS</h1>
-<table style="border: 0;">
+<table align="center" style="border: 0;">
   <tr>
     <td style="border: 0;">
       <a href="https://github.com/liamtoaldo/liamtoaldo">
